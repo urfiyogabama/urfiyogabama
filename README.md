@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @urfiyogabama
-- 👀 I’m interested in data analyst
+- 👀 I’m a data specialist
 
 <!---
 urfiyogabama/urfiyogabama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
